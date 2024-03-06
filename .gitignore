@@ -160,6 +160,10 @@ dist
 
 .vscode-test
 
+# vs code
+
+.history/
+
 # yarn v2
 
 .yarn/cache
