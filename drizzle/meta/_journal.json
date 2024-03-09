@@ -15,6 +15,20 @@
       "when": 1710003982966,
       "tag": "0001_new_lockjaw",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710004220433,
+      "tag": "0002_dear_the_hood",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710004327298,
+      "tag": "0003_neat_zzzax",
+      "breakpoints": true
     }
   ]
 }
