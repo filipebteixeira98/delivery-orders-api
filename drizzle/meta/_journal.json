@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710003895947,
+      "tag": "0000_tranquil_cerise",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710003982966,
+      "tag": "0001_new_lockjaw",
+      "breakpoints": true
+    }
+  ]
+}
